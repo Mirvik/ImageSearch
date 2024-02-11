@@ -59,7 +59,14 @@ button:focus-visible {
 }
 
 .search {
+  color: white;
+  margin:5px 20px;
   font-size: 30px;
+}
+@media (max-width: 420px){
+  .search {
+    font-size: 23px;
+  }
 }
 .btn {
   margin-top: 20px;
