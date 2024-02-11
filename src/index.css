@@ -76,6 +76,7 @@ button:focus-visible {
   margin-top: 20px;
   margin-left: 20px;
   font-size: 20px
+  color: white;
 }
 .imgs {
   width: 100%;
