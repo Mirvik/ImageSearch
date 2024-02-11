@@ -60,8 +60,12 @@ button:focus-visible {
 
 .search {
   color: white;
+  background-color: #2e2e2e;
   margin:5px 20px;
   font-size: 30px;
+
+  border: 1px solid #797979;
+  border-radius: 5px;
 }
 @media (max-width: 420px){
   .search {
